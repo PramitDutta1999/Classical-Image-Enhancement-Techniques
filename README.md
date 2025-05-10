@@ -28,6 +28,12 @@ This repository contains a group assignment submitted for **ENGG*6302: Image Pro
 
 - `image_enhancement.ipynb`: Jupyter Notebook with all implementations and results
   
+## Group Members
+
+- Zinah Ghulam 
+- Pramit Dutta
+- Aurora Duran Gil
+  
 ## Framework Used
 
 - Python
