@@ -1,6 +1,6 @@
 # Image Enhancement Techniques
 
-This repository contains a group assignment submitted for **ENGG*6302: Image Processing** at the University of Guelph. The project explores a variety of medical image enhancement techniques using Python and Jupyter Notebook.
+This repository contains a group assignment submitted for **ENGG*6302: Image Processing** at the University of Guelph. The project explores a variety of classical image enhancement techniques.
 
 ## Key Features
 
